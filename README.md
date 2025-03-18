@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # task_prioritizer_app
 
 - Open VS code & run the following lines in the terminal
