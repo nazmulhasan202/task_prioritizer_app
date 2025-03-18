@@ -12,6 +12,3 @@ python manage.py runserver
 
 - Open http://127.0.0.1:8000/ in your browser
 - Press Ctrl + C to stop the server
-=======
-# task_prioritizer_app
->>>>>>> origin/main
